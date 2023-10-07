@@ -1,3 +1,35 @@
 ---
-title: "patrickabolger.github.io"
+title: "Patrick A. Bolger, PhD"
+image: images/headShot.jpeg
+toc: true
+about: 
+  template: trestles
+  image-shape: round
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/patrick-bolger-66b1b41/
+    - text: Research Gate
+      href: https://www.researchgate.net/profile/Patrick_Bolger
+    - text: GitHub
+      href: https://github.com/patrickabolger
+    - text: Email
+      href: mailto:patrick.bolger@nottingham.ac.uk
 ---
+
+## Currently
+
+Patrick Bolger is a Community Development Champion in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology</a> at <a href="https://www.nottingham.ac.uk/" target="_blank">the University of Nottingham</a> in the United Kingdom. He works mostly with the team at <a href="https://opensciencetools.org/" target="_blank">Open Science Tools, Ltd.</a> (the makers of the open-source software for psychological experiments <a href="https://www.psychopy.org/" target="_blank">PsychoPy</a>, and its online sister, <a href="https://pavlovia.org/docs/home/about" target="_blank">Pavlovia</a>). He is funded by an <a href="https://chanzuckerberg.com/eoss/" target="_blank">Essential Open Source Software for Science</a> grant from the <a href="https://chanzuckerberg.com/" target="_blank">Chan Zuckerberg Initiative</a>.
+
+---
+
+## Educational background
+
+PhD in Second Language Acquisition & Teaching | 2005  
+University of Arizona | Tucson, Arizona
+
+MA in Teaching of English to Speakers of Other Languages  
+Monterey Institute of International Studies | Monterey, California
+
+BS in International Business  
+San Jose State University | San Jose, California
+
