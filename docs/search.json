@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "Education & Work",
     "section": "",
-    "text": "PhD in | Second Language Acquisition & Teaching | 2005\nUniversity of Arizona | Tucson, Arizona\nMA in Teaching of English to Speakers of Other Languages | 1997\nMonterey Institute of International Studies | Monterey, California\nBS in International Business | 1990\nSan José State University | San José, California"
+    "text": "PhD in | Second Language Acquisition & Teaching | 2005 | University of Arizona | Tucson, Arizona\nMA in Teaching of English to Speakers of Other Languages | 1997 | Monterey Institute of International Studies | Monterey, California\nBS in International Business | 1990 | San José State University | San José, California"
+  },
+  {
+    "objectID": "bio.html#education",
+    "href": "bio.html#education",
+    "title": "Education & Work",
+    "section": "",
+    "text": "PhD in | Second Language Acquisition & Teaching | 2005 | University of Arizona | Tucson, Arizona\nMA in Teaching of English to Speakers of Other Languages | 1997 | Monterey Institute of International Studies | Monterey, California\nBS in International Business | 1990 | San José State University | San José, California"
+  },
+  {
+    "objectID": "bio.html#employment",
+    "href": "bio.html#employment",
+    "title": "Education & Work",
+    "section": "Employment",
+    "text": "Employment"
   },
   {
     "objectID": "index.html",
