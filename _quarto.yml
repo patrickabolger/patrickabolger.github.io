@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "patrickabolger.github.io"
+  title: "Patrick A. Bolger, PhD"
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +15,7 @@ format:
     theme: minty
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
