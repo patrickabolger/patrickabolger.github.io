@@ -1,9 +1,9 @@
 ---
 title: "Patrick A. Bolger, PhD"
 image: images/headShot.jpeg
-toc: true
+toc: false
 about: 
-  template: trestles
+  template: solana
   image-shape: round
   links:
     - text: LinkedIn
@@ -16,20 +16,8 @@ about:
       href: mailto:patrick.bolger@nottingham.ac.uk
 ---
 
-## Currently
+I am currently a *Community Development Champion* in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology</a> at <a href="https://www.nottingham.ac.uk/" target="_blank">the University of Nottingham</a> in the United Kingdom. I work mostly with the team at <a href="https://opensciencetools.org/" target="_blank">Open Science Tools, Ltd.</a> (the makers of the open-source software for psychological experiments <a href="https://www.psychopy.org/" target="_blank">PsychoPy</a>, and its online sister, <a href="https://pavlovia.org/docs/home/about" target="_blank">Pavlovia</a>). I was hired through funding from an <a href="https://chanzuckerberg.com/eoss/" target="_blank">Essential Open Source Software for Science</a> grant from the <a href="https://chanzuckerberg.com/" target="_blank">Chan Zuckerberg Initiative</a>, obtained by <a href="https://www.peirce.org.uk/" target="_blank">Professor Jonathan Peirce</a>
 
-Patrick Bolger is a Community Development Champion in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology</a> at <a href="https://www.nottingham.ac.uk/" target="_blank">the University of Nottingham</a> in the United Kingdom. He works mostly with the team at <a href="https://opensciencetools.org/" target="_blank">Open Science Tools, Ltd.</a> (the makers of the open-source software for psychological experiments <a href="https://www.psychopy.org/" target="_blank">PsychoPy</a>, and its online sister, <a href="https://pavlovia.org/docs/home/about" target="_blank">Pavlovia</a>). He is funded by an <a href="https://chanzuckerberg.com/eoss/" target="_blank">Essential Open Source Software for Science</a> grant from the <a href="https://chanzuckerberg.com/" target="_blank">Chan Zuckerberg Initiative</a>.
 
----
 
-## Educational background
-
-PhD in Second Language Acquisition & Teaching | 2005  
-University of Arizona | Tucson, Arizona
-
-MA in Teaching of English to Speakers of Other Languages  
-Monterey Institute of International Studies | Monterey, California
-
-BS in International Business  
-San Jose State University | San Jose, California
 
