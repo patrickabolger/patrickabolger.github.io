@@ -5,13 +5,44 @@ about:
   template: solana
 ---
 
+(reverse chronological order)
+
 ## Education
 
-- PhD in \| <a href="https://slat.arizona.edu/" target="_blank">Second Language Acquisition & Teaching</a> \| 2005 \| <a href="https://www.arizona.edu/" target="_blank">University of Arizona</a> \| Tucson, Arizona
+- 2005 \| **PhD** in \| <a href="https://slat.arizona.edu/" target="_blank">Second Language Acquisition & Teaching</a> \| <a href="https://www.arizona.edu/" target="_blank">University of Arizona</a> \| Tucson, Arizona, USA
+  
+  - dissertation: <a href="https://repository.arizona.edu/handle/10150/194924" target="_blank">Alphabetic Processing in English and Spanish</a>
 
-- MA in <a href="https://www.middlebury.edu/institute/academics/degree-programs/language-education" target="_blank">Teaching of English to Speakers of Other Languages</a> \| 1997\ | <a href="https://www.middlebury.edu/institute" target="_blank">Monterey Institute of International Studies</a> \| Monterey, California
+- 1997 \| **MA** in <a href="https://www.middlebury.edu/institute/academics/degree-programs/language-education" target="_blank">Teaching of English to Speakers of Other Languages</a> \|  <a href="https://www.middlebury.edu/institute" target="_blank">Monterey Institute of International Studies</a> \| Monterey, California, USA
 
-- BS in <a href="https://www.sjsu.edu/cob" target="_blank">International Business</a> \| 1990\ | <a href="https://www.sjsu.edu" target="_blank">San José State University</a> \| San José, California
+- 1990 \| **BS** in <a href="https://www.sjsu.edu/cob" target="_blank">International Business</a>  \| <a href="https://www.sjsu.edu" target="_blank">San José State University</a> \| San José, California, USA
 
-## Employment
+## Relevant Past Employment
 
+- 2016-2022 \| **Instructional Assistant Professor** \| <a href="https://liberalarts.tamu.edu/psychology/" target="_blank">Department of Psychological & Brain Sciences</a> at <a href="https://www.tamu.edu/" target="_blank">Texas A&M University</a> \| College Station, Texas, USA
+
+- 2014-2016 \| <a href="https://csumb.edu/" target="_blank">California State University, Monterey Bay</a> \| Seaside, California, USA
+
+  - 2016 \| **Research Associate** \| <a href="https://csumb.edu/iar/" target="_blank">Institutional Assessment & Research</a>
+
+  - 2014-2015 \| **Program Developer** \| <a href="https://csumb.edu/extended/" target="_blank">College of Extended Education & International Programs</a> 
+
+- 2012-2014 \| Career Hiatus to take care of a family member in need
+
+- 2005-2012 \| <a href="https://www.ualberta.ca/linguistics/index.html" target="_blank">Department of Linguistics</a> \| <a href="https://www.ualberta.ca/index.html" target="_blank">University of Alberta</a> \| Edmonton, Alberta, Canada
+
+  - 2007-2012 \| **Assistant Professor**
+
+  - 2005-2007 \| **Postdoctoral Fellow**
+  
+- 1999-2005 \| <a href="https://www.arizona.edu/" target="_blank">University of Arizona</a> \| Tucson, Arizona, USA
+
+  - 1999, 2003-2005 \| **Graduate Assistant Teacher** \| <a href="https://english.arizona.edu/" target="_blank">Department of English</a>
+  
+  - 2000-2002 \| **Graduate Assistant Researcher** \| <a href="https://science.arizona.edu/cogsci" target="_blank">Cognitive Science Program</a>
+  
+- 1997-1999 \| **Language Instructor** \| <a href="https://www.middlebury.edu/institute" target="_blank">Monterey Institute of International Studies</a>
+
+- 1995-1997 \| graduate student
+  
+- 1992-1994 \| **Volunteer** \| <a href="https://www.peacecorps.gov/" target="_blank">United States Peace Corps</a> \| Locomapa, Yoro, Honduras
