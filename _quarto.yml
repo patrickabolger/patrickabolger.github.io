@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Patrick A. Bolger, PhD"
+  title: "Patrick A. Bolger"
   navbar:
     left:
       - href: index.qmd
