@@ -1,19 +1,25 @@
 ---
-title: "Currently"
-image: images/headShot.jpeg
 toc: false
 about: 
   template: solana
+  image: images/headShot.jpeg
   image-shape: round
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/patrick-bolger-66b1b41/
-    - text: Research Gate
-      href: https://www.researchgate.net/profile/Patrick_Bolger
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/patrickabolger
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:patrick.bolger@nottingham.ac.uk
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/patrick-bolger-66b1b41/
+    - text: "{{< ai researchgate size=large >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Patrick_Bolger
 ---
 
-I am a *Community Development Champion* in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology</a> at <a href="https://www.nottingham.ac.uk/" target="_blank">the University of Nottingham</a> in the United Kingdom. I work mostly with the team at <a href="https://opensciencetools.org/" target="_blank">Open Science Tools, Ltd.</a> (the makers of the open-source software for psychological experiments <a href="https://www.psychopy.org/" target="_blank">PsychoPy</a>, and its online sister, <a href="https://pavlovia.org/docs/home/about" target="_blank">Pavlovia</a>). I was hired through funding from an <a href="https://chanzuckerberg.com/eoss/" target="_blank">Essential Open Source Software for Science</a> grant from the <a href="https://chanzuckerberg.com/" target="_blank">Chan Zuckerberg Initiative</a>, obtained by the fun, friendly, upstanding team at PsychoPy.
+I am a *Community Development Champion* in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology</a> at <a href="https://www.nottingham.ac.uk/" target="_blank">the University of Nottingham</a> in the United Kingdom. I work mostly with the team at <a href="https://opensciencetools.org/" target="_blank">Open Science Tools, Ltd.</a> (the makers of the open-source software for psychological experiments <a href="https://www.psychopy.org/" target="_blank">PsychoPy</a>, and its online sister <a href="https://pavlovia.org/docs/home/about" target="_blank">Pavlovia</a>). I was hired through funding from an <a href="https://chanzuckerberg.com/eoss/" target="_blank">Essential Open Source Software for Science</a> grant from the <a href="https://chanzuckerberg.com/" target="_blank">Chan Zuckerberg Initiative</a>, obtained by the fun, friendly, upstanding team at PsychoPy.
+
+The first project I carried out was designing a survey in *Pavlovia* that was sent out both to members of the *PsychoPy* user forum and to researchers who had frequently cited *PsychoPy* in their publications. Here are the <a href="https://psychopy.github.io/psychopy-edi-survey/" target="_blank">results</a>.
+
+I also organise various workshops and codesprints. One workshop that I run myself are the 3-hour <a href="https://workshops.psychopy.org/translators/index.html" target="_blank">translator workshops</a>.
