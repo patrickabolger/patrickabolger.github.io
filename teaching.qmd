@@ -21,7 +21,9 @@ After obtaining my PhD, I was hired in the Department of Linguistics at the Univ
 
 But I was also heavily engaged in research at the time, learning a great deal not only about new research methodologies, but also about more modern approaches to statistical analysis, like mixed-effects modeling. This became important to my teaching later.
 
-After seven years at the University of Alberta, I resigned in 2012 in order to take care of my 5-year-old son, who had recently been diagnosed with ASD. Since academia is far too competitive to be able to accommodate cases like mine, that career hiatus ultimately spelled the end of my research trajectory
+At the same time, I was mentoring many, many graduate and undergraduate students in how to design and run behavioural, eyetracking and ERP experiments.
+
+After seven years at the University of Alberta, I resigned in 2012 in order to take care of a family member in desperate need. Since academia is far too competitive to be able to accommodate cases like mine, that career hiatus ultimately spelled the end of my research trajectory
 
 ## Texas A&M University
 
@@ -40,7 +42,3 @@ I incorporated exclusively open educational resources into the module. Doing so 
 ### Reducing student anxiety
 
 I transferred the mathematical calculations traditionally required on exams to for-credit, but repeatable homework assignments. This involved setting up math-based problems using the <a href="https://www.r-exams.org/" target="_blank">exams</a> package in R. Some of my assignments can be found <a href="https://github.com/patrickabolger/stats-exam-questions" target="_blank">here</a>.
-
-### Most recent syllabus
-
-Here is my <a href="https://patrickabolger.github.io/PSYC-301-Syllabus-Spring-2022/" target="_blank">most recent syllabus</a> for this module.
