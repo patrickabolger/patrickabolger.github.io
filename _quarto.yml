@@ -11,11 +11,11 @@ website:
   
   navbar:
     left:
-      - href: source/index.qmd
+      - href: index.qmd
         text: Home
-      - source/bio.qmd
-      - source/teaching.qmd
-      - source/research.qmd
+      - bio.qmd
+      - teaching.qmd
+      - research.qmd
 
 format:
   html:
