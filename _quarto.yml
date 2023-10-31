@@ -7,11 +7,11 @@ website:
   site-url: https://patrickabolger.github.io/
   navbar:
     left:
-      - href: index.qmd
+      - href: source/index.qmd
         text: Home
-      - bio.qmd
-      - teaching.qmd
-      - research.qmd
+      - source/bio.qmd
+      - source/teaching.qmd
+      - source/research.qmd
 
 format:
   html:

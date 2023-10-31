@@ -2,7 +2,7 @@
 toc: false
 about: 
   template: solana
-  image: images/headShot.jpeg
+  image: ../images/headShot.jpeg
   image-shape: round
   links:
     - icon: github
