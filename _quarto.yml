@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Patrick A. Bolger"
+  site-url: https://patrickabolger.github.io/
+  open-graph:
+    title: "Patrick A. Bolger's website"
+    locale: en_GB
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - bio.qmd
+      - teaching.qmd
+      - research.qmd
+
+format:
+  html:
+    embed-resources: true
+    self-contained: true
+    theme: 
+      light: minty
+      dark: solar
+    toc: true
+    page-layout: full
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+
+editor: source
+

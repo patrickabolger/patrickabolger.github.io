@@ -1,0 +1,13 @@
+# R-based
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.quarto
+/.quarto/
+
+# For future inclusion, maybe
+snippets/
+
+# Mac specific
+.DS_Store

@@ -1,0 +1,46 @@
+---
+title: "Research"
+toc: false
+about: 
+  template: solana
+---
+
+## Scholarship of Teaching
+
+### Conference Participation
+
+- **Bolger, P. A.** (2021, Apr). *Formative math-focused assessment: Harnessing the power of the exams package for R*. Asynchronous talk given at the 2021 Transformational Teaching and Learning Conference (“Reimagining Teaching, Learning, and Engagement”), College Station, TX. Available at  [https://ttlc.tamu.edu/previous-years/2021-annual-conference/2021-full-program](https://ttlc.tamu.edu/previous-years/2021-annual-conference/2021-full-program) (scroll down to *Faculty Contributions*, then *Optimizing Assessment*, and then to *Talk*).
+
+## Psychology of Language
+
+### Dissertation
+
+- **Bolger, P. A.** (2005). [Alphabetic Processing in English and Spanish](https://repository.arizona.edu/handle/10150/194924). PhD dissertation, The University of Arizona, United States. [Supervisor: Cecile McKee; Committee members: Kenneth Forster, Janet Nicol; Examiners: Heidi Harley, Mary Zampini.]  
+
+### Refereed Articles
+
+- Porretta, V., Tremblay, A., & **Bolger, P. A.** (2017). [Got experience? PMN amplitudes to foreign-accented speech modulated by listener experience](https://doi.org/10.1016/j.jneuroling.2017.03.002). *Journal of Neurolinguistics*, *44*, 54-67.  
+- Hendrix, P., **Bolger, P. A.**, & Baayen, H. (2017). [Distinct ERP signatures of word frequency, phrase frequency, and prototypicality in speech production](https://psycnet.apa.org/doi/10.1037/a0040332). *Journal of Experimental Psychology: Learning, Memory, and Cognition*, *43*(1), 128-149.  
+- Miwa, K., Dijkstra, T., **Bolger, P. A.**, & Baayen, R. H. (2014). [Reading English with Japanese in mind: Effects of frequency, phonology, and meaning in different-script bilinguals](https://doi.org/10.1017/S1366728913000576). *Bilingualism: Language and Cognition*, *17*(3), 445-463.  
+**Bolger, P. A.**, & Zapata, G. C. (2011). [Psycholinguistic approaches to language processing in heritage speakers](https://brill.com/view/journals/hlj/8/1/article-p1_2.xml). *Heritage Language Journal*, *8*(1), 1-29.  
+- **Bolger, P. A.**, & Zapata, G. C. (2011). [Semantic categories and context in L2 vocabulary learning](https://doi.org/10.1111/j.1467-9922.2010.00624.x). *Language Learning*, *61*(2), 614-646.  
+- Borgwaldt, S. R., **Bolger, P. A.**, & Jakab, E. (2010). [Shallow versus deep footprints in pseudo-word grapheme-to-phoneme conversion: Dutch and English](https://doi.org/10.1017/S1470542710000139). *Journal of Germanic Linguistics*, *22*(4), 425-443.  
+**Bolger, P. A.**, Borgwald, S., & Jakab, E (2009). [Letter and grapheme perception in English and Dutch](https://doi.org/10.1075/wll.12.1.06bol). *Written Language & Literacy*, *12*(1), 116-139.  
+- McKee, C., & **Bolger, P. A.** (2003). [Dominio del ASL y ortografía inglesa: Manejo de la ortografía inglesa del niño con dominio del ASL (ASL dominance and English orthography: The ASL-dominant child’s mastery of English orthography)](https://doi.org/10.1016/S0214-4603(03)75755-6). *Revista de Logopedia, Foniatría y Audiología*, *23*, 114-134.  
+
+### Book Reviews
+- **Bolger, P. A.** (2001). [Review of the book Language acquisition by eye]. The Linguist List. [http://www.linguistlist.org/issues/12/12-1885.html](http://www.linguistlist.org/issues/12/12-1885.html) 
+
+### Conference Participation
+
+- **Bolger, P. A.**, Robles, D., & Zapata, G. C. (2018, Nov.). *Grammatical knowledge in performance-based instruction*. Paper presented at the Annual Conference of the American Council on the Teaching of Foreign Languages, New Orleans, LA.  
+- Zapata, G. C., & **Bolger, P. A.** (2014, Mar.). *Dative constructions by monolinguals, early bilinguals, and L2 students*. Paper presented at the Second International Conference on Heritage/Community Languages, Los Angeles, CA.  
+- **Bolger, P. A.**, Zapata, G. C., & Mateu-Martin, A. (2011, Apr.). *Semantically clustered contexts and L2 vocabulary: A classroom- and laboratory-based study*. Paper presented at the UIC Bilingualism Forum, Chicago, IL.  
+- **Bolger, P. A.**, & Borgwaldt, S. (2010, Jul.). *The time course of letter detection: The role of digraph status, lexicality and frequency*. Poster presented at the 7th International Conference on the Mental Lexicon, Windsor, Ontario, Canada.  
+- Miwa, K., **Bolger, P. A.**, Dijkstra, T., & Baayen, H. (2010, Jul.). *The case of different scripts: Cross-linguistic effects in Japanese-English bilingual word recognition*. Paper presented at the 7th International Conference on the Mental Lexicon, Windsor, Ontario, Canada.   
+- Zapata, G. C., & **Bolger, P. A.** (2010, Jul.). *The effect of semantically clustered contexts on L2 vocabulary learning: A classroom- and laboratory-based study*. Poster presented at the 7th International Conference on the Mental Lexicon, Windsor, Ontario, Canada.  
+- **Bolger, P. A.** (2009, Aug.). *Predicting saccade length in the L2 reading of English passages: A pilot study using mixed-effects modeling*. Poster presented at the 15th European Conference on Eye Movements, Southampton, England.
+- Columbus, G., & **Bolger, P. A.** (2009, Aug.). *Multiword unit processing in native and proficient non-native speakers of English*. Poster presented at the 15th European Conference on Eye Movements, Southampton, England.  
+- **Bolger, P. A.**, Borgwaldt, S., & Jakab, E. (2008, Oct.). *Crosslinguistic letter detection: Effects of lexicality and orthographic transparency*. Poster presented at the 6th International Conference on the Mental Lexicon, Banff, Alberta, Canada.  
+- **Bolger, P. A.**, & Zapata, G. C. (2008, Aug.). *How semantic homogeneity in story contexts affects vocabulary learning*. Paper presented at the 15th World Congress of Applied Linguistics, Essen, Germany.  
+- **Bolger, P. A.**, Borgwaldt, S., & Jakab, E. (2006, Oct.). *Letter detection with masked priming: A crosslinguistic study*. Poster presented at the 5th International Conference on the Mental Lexicon, McGill, Montreal, Quebec, Canada.  

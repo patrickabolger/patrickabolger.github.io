@@ -1,0 +1,64 @@
+---
+toc: false
+about: 
+  template: solana
+  image: images/headShot.jpeg
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/patrickabolger
+    - icon: envelope
+      text: Email
+      href: mailto:patrick.bolger@ntu.ac.uk
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/patrick-bolger-66b1b41/
+    - text: "{{< ai researchgate size=large >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Patrick_Bolger
+---
+
+# Employment and Background
+
+::: {.panel-tabset}
+
+## NTU
+
+**Nottingham Trent University** (February 2024 - current)
+
+I currently work as a Senior Lecturer in Psychology at Nottingham Trent University.
+
+I teach various modules ("courses" in the US) including *Lifespan Development*, *Research Methods*, and *Developing Academic Skills in Psychology*.
+
+I am part of the *Language, Literacy, and Psycholinguistics* Research Group.
+
+My research interests are as follows:
+
+- psycholinguistics (bilingualism, skilled reading)  
+- diversity, equity, and inclusion in the unrelated areas of open-source software development and the teaching of statistics  
+- the incorporation of large language models into educational contexts  
+
+## UofN
+
+**University of Nottingham** (August 2022 - January 2024)
+
+I was a *Community Development Champion* in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology</a> at <a href="https://www.nottingham.ac.uk/" target="_blank">the University of Nottingham</a> in the United Kingdom. I worked exclusively with the team at <a href="https://opensciencetools.org/" target="_blank">Open Science Tools, Ltd.</a> (the makers of the open-source software for psychological experiments <a href="https://www.psychopy.org/" target="_blank">PsychoPy</a>, and its online sister <a href="https://pavlovia.org/docs/home/about" target="_blank">Pavlovia</a>). I was hired through funding from an <a href="https://chanzuckerberg.com/eoss/" target="_blank">Essential Open Source Software for Science</a> grant from the <a href="https://chanzuckerberg.com/" target="_blank">Chan Zuckerberg Initiative</a>, obtained by the fun, friendly, upstanding team at PsychoPy.
+I am a *Community Development Champion* in the [School of Psychology](https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx) at [the University of Nottingham](https://www.nottingham.ac.uk/) in the United Kingdom. I work mostly with the team at [Open Science Tools, Ltd.](https://opensciencetools.org/) (the creators of the open-source software for psychological experiments [PsychoPy](https://www.psychopy.org/), and its online sister [Pavlovia](https://pavlovia.org/docs/home/about). I was hired through funding from an [Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/) grant from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/), obtained by the team at PsychoPy.
+
+The first project I carried out was designing a survey in *Pavlovia* that was sent out both to members of the *PsychoPy* user forum and to researchers who had frequently cited *PsychoPy* in their publications. Here are the [results](https://psychopy.github.io/psychopy-edi-survey/).
+
+I also organise various workshops and codesprints. One kind of workshop that I ran myself was the 3-hour <a href="https://workshops.psychopy.org/translators/index.html" target="_blank">translator workshops</a>.
+
+## TAMU
+
+**Texas A&M University** (August 2016 - May 2022)
+
+## CSUMB
+
+**California State University - Monterey Bay** (August 2014 - July 2016)
+
+## UofA
+
+**University of Alberta** (October 2005 - July 2012)
+
+:::
