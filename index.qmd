@@ -18,17 +18,8 @@ about:
       href: https://www.researchgate.net/profile/Patrick_Bolger
 ---
 
-# Employment and Background
 
-::: {.panel-tabset}
-
-## NTU
-
-**Nottingham Trent University** (February 2024 - current)
-
-I currently work as a Senior Lecturer in Psychology at Nottingham Trent University.
-
-I teach various modules ("courses" in the US) including *Lifespan Development*, *Research Methods*, and *Developing Academic Skills in Psychology*.
+I currently work as a Senior Lecturer in Psychology at Nottingham Trent University, where I teach various modules ("courses" in the US) including *Lifespan Development*, *Research Methods*, and *Developing Academic Skills in Psychology*, in addition to directing third-year projects.
 
 I am part of the [Language, Literacy, and Psycholinguistics Research Group](https://www.ntu.ac.uk/research/groups-and-centres/groups/language-literacy-and-psycholinguistics).
 
@@ -38,32 +29,13 @@ My research interests are as follows:
 - diversity, equity, and inclusion in the unrelated areas of open-source software development and the teaching of statistics  
 - the incorporation of large language models into educational contexts  
 
-## UofN
+<!-- ## UofN -->
 
-**University of Nottingham** (August 2022 - January 2024)
+<!-- **University of Nottingham** (August 2022 - January 2024) -->
 
-For a year and a half, I was a *Community Development Champion* in the [School of Psychology](https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx) at the [University of Nottingham](https://www.nottingham.ac.uk/). I worked exclusively with the team at [Open Science Tools](https://opensciencetools.org/) (the makers of both [PsychoPy](https://www.psychopy.org/), the open-source software for psychological experiments, and its online sister, [Pavlovia](https://pavlovia.org/docs/home/about)). I was hired through funding from an [Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/) grant from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/), obtained by the fun, friendly, upstanding team at PsychoPy.
+<!-- For a year and a half, I was a *Community Development Champion* in the [School of Psychology](https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx) at the [University of Nottingham](https://www.nottingham.ac.uk/). I worked exclusively with the team at [Open Science Tools](https://opensciencetools.org/) (the makers of both [PsychoPy](https://www.psychopy.org/), the open-source software for psychological experiments, and its online sister, [Pavlovia](https://pavlovia.org/docs/home/about)). I was hired through funding from an [Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/) grant from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/), obtained by the fun, friendly, upstanding team at PsychoPy. -->
 
-The first project I carried out was designing a survey in *Pavlovia* that was sent out both to members of the *PsychoPy* user forum and to researchers who had frequently cited *PsychoPy* in their publications. Here are the [results](https://psychopy.github.io/psychopy-edi-survey/).
+<!-- The first project I carried out was designing a survey in *Pavlovia* that was sent out both to members of the *PsychoPy* user forum and to researchers who had frequently cited *PsychoPy* in their publications. Here are the [results](https://psychopy.github.io/psychopy-edi-survey/). -->
 
-I also organised various workshops and codesprints. One kind of workshop that I ran myself was the 3-hour [translator workshops](https://workshops.psychopy.org/translators/index.html).
+<!-- I also organised various workshops and codesprints. One kind of workshop that I ran myself was the 3-hour [translator workshops](https://workshops.psychopy.org/translators/index.html). -->
 
-## TAMU
-
-**Texas A&M University** (August 2016 - May 2022)
-
-[more soon]
-
-## CSUMB
-
-**California State University - Monterey Bay** (August 2014 - July 2016)
-
-[more soon]
-
-## UofA
-
-**University of Alberta** (October 2005 - July 2012)
-
-[more soon]
-
-:::

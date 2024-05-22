@@ -13,9 +13,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - bio.qmd
       - teaching.qmd
-      - research.qmd
+      - cv.qmd
 
 format:
   html:
@@ -27,8 +26,7 @@ format:
     toc: true
     page-layout: full
     smooth-scroll: true
-    link-external-icon: true
     link-external-newwindow: true
-
+    
 editor: source
 

@@ -1,23 +1,63 @@
 ---
-title: "Research"
+title: "CV"
 toc: false
 about: 
   template: solana
 ---
 
-## Scholarship of Teaching
+(reverse chronological order)
 
-### Conference Participation
+## Education
+
+- 2005 \| **PhD** in \| [Second Language Acquisition & Teaching](https://slat.arizona.edu/) \| [University of Arizona](https://www.arizona.edu/) \| Tucson, Arizona, USA  
+  - dissertation: [Alphabetic Processing in English and Spanish](https://repository.arizona.edu/handle/10150/194924)  
+
+- 1997 \| **MA** in [Teaching of English to Speakers of Other Languages](https://www.middlebury.edu/institute/academics/degree-programs/language-education) \| [Monterey Institute of International Studies](https://www.middlebury.edu/institute) \| Monterey, California, USA  
+
+- 1990 \| **BS** in [International Business](https://www.sjsu.edu/cob)  \| [San José State University](https://www.sjsu.edu) \| San José, California, USA  
+
+## Relevant Employment History
+
+- current \| **Senior Lecturer** \| in [Psychology](https://www.ntu.ac.uk/course/psychology) at [Nottingham Trent University](https://www.ntu.ac.uk/) \| Nottingham, United Kingdom  
+
+- 2022-2024 \| **Community Development Champion** \| [School of Psychology](https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx) at the [University of Nottingham](https://www.nottingham.ac.uk/) \| Nottingham, United Kingdom  
+
+- 2016-2022 \| **Instructional Assistant Professor** \| [Department of Psychological & Brain Sciences](https://liberalarts.tamu.edu/psychology/) at [Texas A&M University](https://www.tamu.edu/) \| College Station, Texas, USA  
+
+- 2014-2016 \| [California State University, Monterey Bay](https://csumb.edu/) \| Seaside, California, USA  
+  - 2016 \| **Research Associate** \| [Institutional Assessment & Research](https://csumb.edu/iar/)  
+  - 2014-2015 \| **Program Developer** \| [College of Extended Education & International Programs](https://csumb.edu/extended/)  
+
+- 2012-2014 \| Career Hiatus to take care of a family member in need  
+
+- 2005-2012 \| [Department of Linguistics](https://www.ualberta.ca/linguistics/index.html)  \| [University of Alberta](https://www.ualberta.ca/index.html) \| Edmonton, Alberta, Canada  
+  - 2007-2012 \| **Assistant Professor**  
+  - 2005-2007 \| **Postdoctoral Fellow**  
+  
+- 1999-2005 \| [University of Arizona](https://www.arizona.edu/) \| Tucson, Arizona, USA  
+  - 1999, 2003-2005 \| **Graduate Assistant Teacher** \| [Department of English](https://english.arizona.edu/)  
+  - 2000-2002 \| **Graduate Assistant Researcher** \| [Cognitive Science Program](https://science.arizona.edu/cogsci)  
+  
+- 1997-1999 \| **Language Instructor** \| [Monterey Institute of International Studies](https://www.middlebury.edu/institute)  
+- 1995-1997 \| graduate student  
+  
+- 1992-1994 \| **Volunteer** \| [United States Peace Corps](https://www.peacecorps.gov/) \| Locomapa, Yoro, Honduras
+
+## Publications & Presentations
+
+### Scholarship of Teaching
+
+#### Conference Participation
 
 - **Bolger, P. A.** (2021, Apr). *Formative math-focused assessment: Harnessing the power of the exams package for R*. Asynchronous talk given at the 2021 Transformational Teaching and Learning Conference (“Reimagining Teaching, Learning, and Engagement”), College Station, TX. Available at  [https://ttlc.tamu.edu/previous-years/2021-annual-conference/2021-full-program](https://ttlc.tamu.edu/previous-years/2021-annual-conference/2021-full-program) (scroll down to *Faculty Contributions*, then *Optimizing Assessment*, and then to *Talk*).
 
-## Psychology of Language
+### Psychology of Language
 
-### Dissertation
+#### Dissertation
 
 - **Bolger, P. A.** (2005). [Alphabetic Processing in English and Spanish](https://repository.arizona.edu/handle/10150/194924). PhD dissertation, The University of Arizona, United States. [Supervisor: Cecile McKee; Committee members: Kenneth Forster, Janet Nicol; Examiners: Heidi Harley, Mary Zampini.]  
 
-### Refereed Articles
+#### Refereed Articles
 
 - Porretta, V., Tremblay, A., & **Bolger, P. A.** (2017). [Got experience? PMN amplitudes to foreign-accented speech modulated by listener experience](https://doi.org/10.1016/j.jneuroling.2017.03.002). *Journal of Neurolinguistics*, *44*, 54-67.  
 - Hendrix, P., **Bolger, P. A.**, & Baayen, H. (2017). [Distinct ERP signatures of word frequency, phrase frequency, and prototypicality in speech production](https://psycnet.apa.org/doi/10.1037/a0040332). *Journal of Experimental Psychology: Learning, Memory, and Cognition*, *43*(1), 128-149.  
@@ -28,10 +68,10 @@ about:
 **Bolger, P. A.**, Borgwald, S., & Jakab, E (2009). [Letter and grapheme perception in English and Dutch](https://doi.org/10.1075/wll.12.1.06bol). *Written Language & Literacy*, *12*(1), 116-139.  
 - McKee, C., & **Bolger, P. A.** (2003). [Dominio del ASL y ortografía inglesa: Manejo de la ortografía inglesa del niño con dominio del ASL (ASL dominance and English orthography: The ASL-dominant child’s mastery of English orthography)](https://doi.org/10.1016/S0214-4603(03)75755-6). *Revista de Logopedia, Foniatría y Audiología*, *23*, 114-134.  
 
-### Book Reviews
+#### Book Reviews
 - **Bolger, P. A.** (2001). [Review of the book Language acquisition by eye]. The Linguist List. [http://www.linguistlist.org/issues/12/12-1885.html](http://www.linguistlist.org/issues/12/12-1885.html) 
 
-### Conference Participation
+#### Conference Participation
 
 - **Bolger, P. A.**, Robles, D., & Zapata, G. C. (2018, Nov.). *Grammatical knowledge in performance-based instruction*. Paper presented at the Annual Conference of the American Council on the Teaching of Foreign Languages, New Orleans, LA.  
 - Zapata, G. C., & **Bolger, P. A.** (2014, Mar.). *Dative constructions by monolinguals, early bilinguals, and L2 students*. Paper presented at the Second International Conference on Heritage/Community Languages, Los Angeles, CA.  
