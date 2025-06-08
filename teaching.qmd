@@ -7,9 +7,9 @@ about:
 
 ## Teaching Philosophy
 
-We should foster learning through student-centred teaching, where the instructor acts more as a mentor and facilitator than as a lecturer. In my opinion, the best learning, be it at the undergraduate or graduate level, takes place through active learning as students work on projects tailored to their own interests. 
+We should foster learning through student-centered teaching, where the instructor acts more as a mentor and facilitator than as a lecturer. In my opinion, the best learning, be it at the undergraduate or graduate level, takes place through active learning as students work on projects tailored to their own interests. 
 
-That said, it has been a challenge to implement this kind of learning in the large modules (*courses* in the US and Canada) that I have often taught (i.e., 100-300 students). Nonetheless, it was fairly easy to do in the lab sections of my statistics modules at Texas A&M. In small groups, my students would develop their own surveys in Google Forms, collect data, and then analyse it for their individual [IMRaD](https://en.wikipedia.org/wiki/IMRAD) papers (see <a href="https://patrickabolger.github.io/PSYC-301-Syllabus-Spring-2022/#tasks-in-lab" target="_blank">here</a> for a description of the labs in my most recent syllabus for that module). Student-centred learning is also difficult to implement in statistics modules in general, where students often need explicit instructor help in order to understand the material. But carefully planned small-group projects go a long way in centring the student in the module.
+That said, it has been a challenge to implement this kind of learning in the large modules (*courses* in the US and Canada) that I have often taught (i.e., 100-300 students). Nonetheless, it was fairly easy to do in the lab sections of my statistics modules at Texas A&M. In small groups, my students would develop their own surveys in Google Forms, collect data, and then analyse it for their individual [IMRaD](https://en.wikipedia.org/wiki/IMRAD){target="_blank"} papers (see [here](https://patrickabolger.github.io/PSYC-301-Syllabus-Spring-2022/#tasks-in-lab){target="_blank"} for a description of the labs in my most recent syllabus for that module). Student-centered learning is also difficult to implement in statistics modules in general, where students often need explicit instructor help in order to understand the material. But carefully planned small-group projects go a long way in centering the student in the module.
 
 ## Teaching Experience
 
@@ -17,15 +17,19 @@ I have a good deal of experience teaching various subjects, but what energizes m
 
 ::: {.panel-tabset}
 
-## Nottingham Trent University (2024)
+## Nottingham Trent University (2024-present)
 
-In February 2024 I was hired as a Senior Lecturer in [Psychology](https://www.ntu.ac.uk/study-and-courses/academic-schools/social-sciences/psychology) at [Nottingham Trent University](https://www.ntu.ac.uk/) in Nottingham, United Kingdom.
+In February 2024 I was hired as a Senior Lecturer in [Psychology](https://www.ntu.ac.uk/study-and-courses/academic-schools/social-sciences/psychology){target="_blank"} at [Nottingham Trent University](https://www.ntu.ac.uk/){target="_blank"} in Nottingham, United Kingdom.
 
-At NTU I have taught *Developmental Psychology*, *Research Methods*, and *Developing Academic Skills in Psychology*, along with supervising several third-year student projects. So far, I have learned much more about the teaching ecosystem in the UK than I have about classroom teaching itself (which is ultimately similar to classroom teaching in the US).
+At NTU I have taught several modules (click [here](index.qmd) to see a list, or just go to the `Home` tab above). I have also supervised several third-year student projects. So far, I have learned much more about the teaching ecosystem in the UK than I have about classroom teaching itself (which is ultimately similar to classroom teaching in the US).
+
+I was also the module leader for two modules (where modules are usually taught by multiple lecturers at NTU). 
+
+Finally, I am the year-one tutor for the general pathway. This is a position with the course team. Towards the beginning of the year, the bulk of the work was working with student access statements. Towards the end of the year, the workload is shifted to consulting with students who have missed assessments. The year-one tutor also participates in the year-one Exam Board at the end of the year, where decisions are made about whether students have completed all their assessments and move on to year 2, and if not, how they might do so during the referral period, or be allowed to trail work into year 2, or be required to repeat year one.
 
 ## Texas A&M University (2016-2022)
 
-In 2016 I was hired as an Instructional Assistant Professor in the Department of Psychological and Brain Sciences at Texas A&M University. There, the vast majority of my responsibilities comprised teaching <a href="https://patrickabolger.github.io/PSYC-301-Syllabus-Spring-2022/" target="_blank">undergraduate statistics</a>, <a href="https://patrickabolger.github.io/PSYC-652-Fall-2020/" target="_blank">graduate statistics</a>, and <a href="https://patrickabolger.github.io/PSYC-245-Spring-2022/" target="_blank">undergraduate research methods</a>. But I also taught *Developmental Psychology* and *Psychology of Language*.
+In 2016 I was hired as an Instructional Assistant Professor in the Department of Psychological and Brain Sciences at Texas A&M University. There, the vast majority of my responsibilities comprised teaching [undergraduate statistics](https://patrickabolger.github.io/PSYC-301-Syllabus-Spring-2022/){target="_blank"}, [graduate statistics](https://patrickabolger.github.io/PSYC-652-Fall-2020/){target="_blank"}, and [undergraduate research methods](https://patrickabolger.github.io/PSYC-245-Spring-2022/){target="_blank"}. But I also taught *Developmental Psychology* and *Psychology of Language*.
 
 To be honest, I was rather surprised at how enthusiastic I became in teaching statistics and research methods. The module I taught most frequently, by far, was *Elementary Statistics for Psychology*, a large module (usually about 100 students each), with multiple labs that also required that each student write an IMRaD paper. It was here that I implemented most of my innovations, including most notably, the following:
 
@@ -33,13 +37,13 @@ To be honest, I was rather surprised at how enthusiastic I became in teaching st
 
 I incorporated exclusively open educational resources into the module. Doing so reduces the financial burden on students, thereby helping not only to reduce their overall stress levels, but also (by extension) to maximize their learning potential. Specifically, I did the following:
 
-- assigned a free, high-quality textbook, [learning statistics with jamovi](https://davidfoxcroft.github.io/lsj-book/)  
-- had them use the free statistical software, [jamovi](https://www.jamovi.org/), for analyses  
-- wrote a new <a href="https://patrickabolger.github.io/ElemStatsLabManual/" target="_blank">lab manual</a> for the module (since the other manual in use was designed for SPSS)
+- assigned a free, high-quality textbook, [learning statistics with jamovi](https://davidfoxcroft.github.io/lsj-book/){target="_blank"}  
+- had them use the free statistical software, [jamovi](https://www.jamovi.org/){target="_blank"}, for analyses  
+- wrote a new [lab manual](https://patrickabolger.github.io/ElemStatsLabManual/){target="_blank"} for the module (since the other manual in use was designed for SPSS)
 
 #### Reducing student anxiety
 
-I transferred the mathematical calculations traditionally required on exams to for-credit, but repeatable homework assignments. This involved setting up math-based problems using the [exams](https://www.r-exams.org/) package in [R](https://www.r-project.org/). Some of those assignments can be found [here](https://github.com/patrickabolger/stats-exam-questions).
+I transferred the mathematical calculations traditionally required on exams to for-credit, but repeatable homework assignments. This involved setting up math-based problems using the [exams](https://www.r-exams.org/){target="_blank"} package in [R](https://www.r-project.org/){target="_blank"}. Some of those assignments can be found [here](https://github.com/patrickabolger/stats-exam-questions){target="_blank"}.
 
 
 ## University of Alberta (2005-2012)
@@ -50,7 +54,7 @@ But I was also heavily engaged in research at the time, learning a great deal no
 
 At the same time, I was mentoring many, many graduate and undergraduate students in how to design and run behavioural, eyetracking and ERP experiments.
 
-After seven years at the University of Alberta, I resigned in 2012 in order to take care of a family member in desperate need. Since academia is far too competitive to be able to accommodate cases like mine, that career hiatus ultimately spelled the end of my research trajectory
+After seven years at the University of Alberta, I resigned in 2012 in order to take care of a family member in desperate need. Since academia is far too competitive to be able to accommodate cases like mine, that career hiatus ultimately spelled the end of my research trajectory.
 
 <!-- ## University of Arizona (1999-2005) -->
 

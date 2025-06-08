@@ -18,24 +18,50 @@ about:
       href: https://www.researchgate.net/profile/Patrick_Bolger
 ---
 
-I currently work as a Senior Lecturer in Psychology at Nottingham Trent University, where I have taught various modules, including the following:
+I currently work as a Senior Lecturer in Psychology at Nottingham Trent University, where I have taught various modules, including the following (sorted by student level):
 
-- *Developing Academic Skills in Psychology* (year 1)
-- *Introduction to Developmental Psychology* (year 1; module leader)
-- *Research Methods & Stats* (years 1 and year 2)
-- *Social & Developmental Psychology* (year 2)
-- *Psychology of the Family* (year 3; module leader)
-- Final-year projects (year 3)
-- *The Child in Context* (Masters)
-- *Developmental Profiles of Language and Learning* (Masters)
+# Teaching
 
-I am part of the [Language, Literacy, and Psycholinguistics Research Group](https://www.ntu.ac.uk/research/groups-and-centres/groups/language-literacy-and-psycholinguistics).
+## Undergraduate
+
+### First year
+
+- *Developing Academic Skills in Psychology*
+- *Introduction to Developmental Psychology* (module leader)
+- *Research Methods & Stats*
+
+### Second year
+
+- *Research Methods & Stats*
+- *Social & Developmental Psychology* 
+
+### Third year
+- *Psychology of the Family* (module leader)
+- Projects (supervisor)
+
+## Postgraduate
+
+### Master's
+- *The Child in Context*
+- *Developmental Profiles of Language and Learning*
+
+---
+
+# Research
+
+I am part of the [Language, Literacy, and Psycholinguistics Research Group](https://www.ntu.ac.uk/research/groups-and-centres/groups/language-literacy-and-psycholinguistics){target="_blank"}
 
 My research interests are as follows:
 
 - psycholinguistics (bilingualism, skilled reading)  
 - diversity, equity, and inclusion in the unrelated areas of open-source software development and the teaching of statistics  
-- the incorporation of large language models into educational contexts, especially writing and statistics  
+- the incorporation of large language models into educational contexts, especially writing and statistics
+
+---
+
+# Service
+
+I am the first-year tutor on the course team.
 
 <!-- ## UofN -->
 
