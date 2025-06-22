@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 toc: false
 about: 
   template: solana
@@ -10,46 +10,54 @@ about:
 ## Education
 
 - 2005 \| **PhD** in \| [Second Language Acquisition & Teaching](https://slat.arizona.edu/){target="_blank"} \| [University of Arizona](https://www.arizona.edu/){target="_blank"} \| Tucson, Arizona, USA  
-  - dissertation: [Alphabetic Processing in English and Spanish](https://repository.arizona.edu/handle/10150/194924){target="_blank"}  
+  - dissertation: [Alphabetic Processing in English and Spanish](https://repository.arizona.edu/handle/10150/194924){target="_blank"}
 
-- 1997 \| **MA** in [Teaching of English to Speakers of Other Languages](https://www.middlebury.edu/institute/academics/degree-programs/language-education){target="_blank"} \| [Monterey Institute of International Studies](https://www.middlebury.edu/institute){target="_blank"} \| Monterey, California, USA  
+- 1997 \| **MA** in [Teaching of English to Speakers of Other Languages](https://www.middlebury.edu/institute/academics/degree-programs/language-education){target="_blank"} \| [Monterey Institute of International Studies](https://www.middlebury.edu/institute){target="_blank"} \| Monterey, California, USA
 
-- 1990 \| **BS** in [International Business](https://www.sjsu.edu/cob){target="_blank"}  \| [San José State University](https://www.sjsu.edu){target="_blank"} \| San José, California, USA  
+- 1990 \| **BS** in [International Business](https://www.sjsu.edu/cob){target="_blank"}  \| [San José State University](https://www.sjsu.edu){target="_blank"} \| San José, California, USA
 
-## Academic Employment History since PhD
+## Academic Employment History
 
-- 2024-Current \| **Senior Lecturer** \| in [Psychology](https://www.ntu.ac.uk/course/psychology){target="_blank"} at [Nottingham Trent University](https://www.ntu.ac.uk/){target="_blank"} \| Nottingham, United Kingdom  
+- 2024-Current \| **Senior Lecturer** \| in [Psychology](https://www.ntu.ac.uk/course/psychology){target="_blank"} at [Nottingham Trent University](https://www.ntu.ac.uk/){target="_blank"} \| Nottingham, United Kingdom
 
-- 2022-2024 \| **Community Development Champion** \| [School of Psychology](https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx){target="_blank"} at the [University of Nottingham](https://www.nottingham.ac.uk/){target="_blank"} \| Nottingham, United Kingdom  
+- 2022-2024 \| **Community Development Champion** \| [School of Psychology](https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx){target="_blank"} at the [University of Nottingham](https://www.nottingham.ac.uk/){target="_blank"} \| Nottingham, United Kingdom
 
-- 2016-2022 \| **Instructional Assistant Professor** \| [Department of Psychological & Brain Sciences](https://liberalarts.tamu.edu/psychology/){target="_blank"} at [Texas A&M University](https://www.tamu.edu/){target="_blank"} \| College Station, Texas, USA  
+- 2016-2022 \| **Instructional Assistant Professor** \| [Department of Psychological & Brain Sciences](https://liberalarts.tamu.edu/psychology/){target="_blank"} at [Texas A&M University](https://www.tamu.edu/){target="_blank"} \| College Station, Texas, USA
 
 - 2014-2016 \| [California State University, Monterey Bay](https://csumb.edu/){target="_blank"} \| Seaside, California, USA  
   - 2016 \| **Research Associate** \| [Institutional Assessment & Research](https://csumb.edu/iar/){target="_blank"}  
   - 2014-2015 \| **Program Developer** \| [College of Extended Education & International Programs](https://csumb.edu/extended/){target="_blank"}  
 
-- 2012-2014 \| Career Hiatus to take care of a family member in need  
+- 2012-2014 \| Career Hiatus to take care of a family member in need
 
 - 2005-2012 \| [Department of Linguistics](https://www.ualberta.ca/linguistics/index.html){target="_blank"}  \| [University of Alberta](https://www.ualberta.ca/index.html){target="_blank"} \| Edmonton, Alberta, Canada  
   - 2007-2012 \| **Assistant Professor**  
-  - 2005-2007 \| **Postdoctoral Fellow**  
-  
+  - 2005-2007 \| **Postdoctoral Fellow**
+
 - 1999-2005 \| [University of Arizona](https://www.arizona.edu/){target="_blank"} \| Tucson, Arizona, USA  
   - 1999, 2003-2005 \| **Graduate Assistant Teacher** \| [Department of English](https://english.arizona.edu/){target="_blank"}  
-  - 2000-2002 \| **Graduate Assistant Researcher** \| [Cognitive Science Program](https://science.arizona.edu/cogsci){target="_blank"}  
-  
+  - 2000-2002 \| **Graduate Assistant Researcher** \| [Cognitive Science Program](https://science.arizona.edu/cogsci){target="_blank"}
+
 - 1997-1999 \| **Language Instructor** \| [Monterey Institute of International Studies](https://www.middlebury.edu/institute){target="_blank"}  
-- 1995-1997 \| graduate student  
-  
+- 1995-1997 \| graduate student
+ 
 - 1992-1994 \| **Volunteer** \| [United States Peace Corps](https://www.peacecorps.gov/){target="_blank"} \| Locomapa, Yoro, Honduras
 
 ## Scholarly Work
 
-### Generative Artificial Intelligence in Higher Education
+### Generative Artificial Intelligence in Education
 
 #### Refereed Articles
 
-- Tzirides, A., Zapata, G., **Bolger, P. A.**, Cope, B., Kalantzis, M., & Searsmith, D. (2024). [Exploring instructors’ views on fine-tuned generative AI feedback in higher education](https://doi.org/10.70725/022533mcqtxp){target="_blank"}. *International Journal on E-Learning*, *23*(3), 319–334. https://doi.org/10.70725/022533mcqtxp
+- Tzirides, A., Zapata, G., **Bolger, P.**, Cope, B., Kalantzis, M., & Searsmith, D. (2024). Exploring instructors’ views on fine-tuned generative AI feedback in higher education. *International Journal on E-Learning*, *23*(3), 319–334. [https://doi.org/10.70725/022533mcqtxp](https://doi.org/10.70725/022533mcqtxp){target="_blank"}.  
+
+#### Conference Participation
+
+- Tzirides, O., Zapata, G. C., **Bolger, P.**, Cope, B., Kalantzis, M., & Searsmith, D. (2025, Jun.). *Assessing AI-generated feedback quality: Instructor perspectives on fine-tuned genAI for higher education student writing*. Paper presented at the 19th International Conference of the Learning Sciences (ICLS), Helsinki, Finland. URL: [https://2025.isls.org/](https://2025.isls.org/){target="_blank"}.
+
+- Cope, W., **Bolger, P. A.**, and Kalantzis, M. (2024, Jun.). *The language of generative AI: Theory and practical application*. Paper presented at the online workshop Text Production and Comprehension by Human and Artificial Intelligence. Online. URL: [https://www.isu-pacelab.org/workshop-ai-text-production](https://www.isu-pacelab.org/workshop-ai-text-production){target="_blank"} (also: [https://youtu.be/8HuFCX52nbI?si=j4lSJsFaWY40WEKv](https://youtu.be/8HuFCX52nbI?si=j4lSJsFaWY40WEKv){target="_blank"}).
+
+- Zapata, G. C., **Bolger, P. A.**, Cope, B., Kalantzis, M., Saini, A. K., & Searsmith, D. (2024, Jun.). *Fruitful generative AI-student collaboration: Tailored, learner-centred machine feedback in higher education*. Paper presented at the 2024 International e-Assessment Conference and Awards, London, UK.
 
 ### The Scholarship of Teaching
 
@@ -61,32 +69,49 @@ about:
 
 #### Dissertation
 
-- **Bolger, P. A.** (2005). [Alphabetic Processing in English and Spanish](https://repository.arizona.edu/handle/10150/194924){target="_blank"}. PhD dissertation, The University of Arizona, United States. [Supervisor: Cecile McKee; Committee members: Kenneth Forster, Janet Nicol; Examiners: Heidi Harley, Mary Zampini.]  
+- **Bolger, P. A.** (2005). [Alphabetic Processing in English and Spanish](https://repository.arizona.edu/handle/10150/194924){target="_blank"}. PhD dissertation, The University of Arizona, United States. [Supervisor: Cecile McKee; Committee members: Kenneth Forster, Janet Nicol; Examiners: Heidi Harley, Mary Zampini].
 
 #### Refereed Articles
 
-- Porretta, V., Tremblay, A., & **Bolger, P. A.** (2017). [Got experience? PMN amplitudes to foreign-accented speech modulated by listener experience](https://doi.org/10.1016/j.jneuroling.2017.03.002){target="_blank"}. *Journal of Neurolinguistics*, *44*, 54-67. https://doi.org/10.1016/j.jneuroling.2017.03.002 
-- Hendrix, P., **Bolger, P. A.**, & Baayen, H. (2017). [Distinct ERP signatures of word frequency, phrase frequency, and prototypicality in speech production](https://psycnet.apa.org/doi/10.1037/a0040332){target="_blank"}. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, *43*(1), 128-149.https://psycnet.apa.org/doi/10.1037/a0040332
-- Miwa, K., Dijkstra, T., **Bolger, P. A.**, & Baayen, R. H. (2014). [Reading English with Japanese in mind: Effects of frequency, phonology, and meaning in different-script bilinguals](https://doi.org/10.1017/S1366728913000576){target="_blank"}. *Bilingualism: Language and Cognition*, *17*(3), 445-463. https://doi.org/10.1017/S1366728913000576
-**Bolger, P. A.**, & Zapata, G. C. (2011). [Psycholinguistic approaches to language processing in heritage speakers](https://brill.com/view/journals/hlj/8/1/article-p1_2.xml){target="_blank"}. *Heritage Language Journal*, *8*(1), 1-29. https://brill.com/view/journals/hlj/8/1/article-p1_2.xml  
-- **Bolger, P. A.**, & Zapata, G. C. (2011). [Semantic categories and context in L2 vocabulary learning](https://doi.org/10.1111/j.1467-9922.2010.00624.x){target="_blank"}. *Language Learning*, *61*(2), 614-646. https://doi.org/10.1111/j.1467-9922.2010.00624.x  
-- Borgwaldt, S. R., **Bolger, P. A.**, & Jakab, E. (2010). [Shallow versus deep footprints in pseudo-word grapheme-to-phoneme conversion: Dutch and English](https://doi.org/10.1017/S1470542710000139){target="_blank"}. *Journal of Germanic Linguistics*, *22*(4), 425-443. https://doi.org/10.1017/S1470542710000139  
-**Bolger, P. A.**, Borgwald, S., & Jakab, E (2009). [Letter and grapheme perception in English and Dutch](https://doi.org/10.1075/wll.12.1.06bol){target="_blank"}. *Written Language & Literacy*, *12*(1), 116-139. https://doi.org/10.1075/wll.12.1.06bol  
-- McKee, C., & **Bolger, P. A.** (2003). [Dominio del ASL y ortografía inglesa: Manejo de la ortografía inglesa del niño con dominio del ASL (ASL dominance and English orthography: The ASL-dominant child’s mastery of English orthography)](https://doi.org/10.1016/S0214-4603(03)75755-6){target="_blank"}. *Revista de Logopedia, Foniatría y Audiología*, *23*, 114-134. https://doi.org/10.1016/S0214-4603(03)75755-6  
+- Porretta, V., Tremblay, A., & **Bolger, P. A.** (2017). Got experience? PMN amplitudes to foreign-accented speech modulated by listener experience. *Journal of Neurolinguistics*, *44*, 54-67. [https://doi.org/10.1016/j.jneuroling.2017.03.002](https://doi.org/10.1016/j.jneuroling.2017.03.002){target="_blank"}.
+
+- Hendrix, P., **Bolger, P. A.**, & Baayen, H. (2017). Distinct ERP signatures of word frequency, phrase frequency, and prototypicality in speech production. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, *43*(1), 128-149. [https://psycnet.apa.org/doi/10.1037/a0040332](https://psycnet.apa.org/doi/10.1037/a0040332){target="_blank"}.
+
+- Miwa, K., Dijkstra, T., **Bolger, P. A.**, & Baayen, R. H. (2014). Reading English with Japanese in mind: Effects of frequency, phonology, and meaning in different-script bilinguals. *Bilingualism: Language and Cognition*, *17*(3), 445-463. [https://doi.org/10.1017/S1366728913000576](https://doi.org/10.1017/S1366728913000576){target="_blank"}.
+
+- **Bolger, P. A.**, & Zapata, G. C. (2011). Psycholinguistic approaches to language processing in heritage speakers. *Heritage Language Journal*, *8*(1), 1-29. [https://brill.com/view/journals/hlj/8/1/article-p1_2.xml](https://brill.com/view/journals/hlj/8/1/article-p1_2.xml){target="_blank"}.
+
+- **Bolger, P. A.**, & Zapata, G. C. (2011). Semantic categories and context in L2 vocabulary learning. *Language Learning*, *61*(2), 614-646. [https://doi.org/10.1111/j.1467-9922.2010.00624.x](https://doi.org/10.1111/j.1467-9922.2010.00624.x){target="_blank"}
+
+- Borgwaldt, S. R., **Bolger, P. A.**, & Jakab, E. (2010). Shallow versus deep footprints in pseudo-word grapheme-to-phoneme conversion: Dutch and English. *Journal of Germanic Linguistics*, *22*(4), 425-443. [https://doi.org/10.1017/S1470542710000139](https://doi.org/10.1017/S1470542710000139){target="_blank"}.
+
+- **Bolger, P. A.**, Borgwald, S., & Jakab, E (2009). Letter and grapheme perception in English and Dutch. *Written Language & Literacy*, *12*(1), 116-139. [https://doi.org/10.1075/wll.12.1.06bol](https://doi.org/10.1075/wll.12.1.06bol){target="_blank"}.
+
+- McKee, C., & **Bolger, P. A.** (2003). Dominio del ASL y ortografía inglesa: Manejo de la ortografía inglesa del niño con dominio del ASL (ASL dominance and English orthography: The ASL-dominant child’s mastery of English orthography). *Revista de Logopedia, Foniatría y Audiología*, *23*, 114-134. [https://doi.org/10.1016/S0214-4603(03)75755-6](https://doi.org/10.1016/S0214-4603(03)75755-6){target="_blank"}.
 
 #### Book Reviews
-- **Bolger, P. A.** (2001). [Review of the book Language acquisition by eye]. The Linguist List. [http://www.linguistlist.org/issues/12/12-1885.html](http://www.linguistlist.org/issues/12/12-1885.html){target="_blank"} 
+- **Bolger, P. A.** (2001). [Review of the book Language acquisition by eye]. The Linguist List. [http://www.linguistlist.org/issues/12/12-1885.html](http://www.linguistlist.org/issues/12/12-1885.html){target="_blank"}.
 
 #### Conference Participation
 
-- **Bolger, P. A.**, Robles, D., & Zapata, G. C. (2018, Nov.). *Grammatical knowledge in performance-based instruction*. Paper presented at the Annual Conference of the American Council on the Teaching of Foreign Languages, New Orleans, LA.  
-- Zapata, G. C., & **Bolger, P. A.** (2014, Mar.). *Dative constructions by monolinguals, early bilinguals, and L2 students*. Paper presented at the Second International Conference on Heritage/Community Languages, Los Angeles, CA.  
-- **Bolger, P. A.**, Zapata, G. C., & Mateu-Martin, A. (2011, Apr.). *Semantically clustered contexts and L2 vocabulary: A classroom- and laboratory-based study*. Paper presented at the UIC Bilingualism Forum, Chicago, IL.  
-- **Bolger, P. A.**, & Borgwaldt, S. (2010, Jul.). *The time course of letter detection: The role of digraph status, lexicality and frequency*. Poster presented at the 7th International Conference on the Mental Lexicon, Windsor, Ontario, Canada.  
-- Miwa, K., **Bolger, P. A.**, Dijkstra, T., & Baayen, H. (2010, Jul.). *The case of different scripts: Cross-linguistic effects in Japanese-English bilingual word recognition*. Paper presented at the 7th International Conference on the Mental Lexicon, Windsor, Ontario, Canada.   
-- Zapata, G. C., & **Bolger, P. A.** (2010, Jul.). *The effect of semantically clustered contexts on L2 vocabulary learning: A classroom- and laboratory-based study*. Poster presented at the 7th International Conference on the Mental Lexicon, Windsor, Ontario, Canada.  
+- **Bolger, P. A.**, Robles, D., & Zapata, G. C. (2018, Nov.). *Grammatical knowledge in performance-based instruction*. Paper presented at the Annual Conference of the American Council on the Teaching of Foreign Languages, New Orleans, LA.
+
+- Zapata, G. C., & **Bolger, P. A.** (2014, Mar.). *Dative constructions by monolinguals, early bilinguals, and L2 students*. Paper presented at the Second International Conference on Heritage/Community Languages, Los Angeles, CA.
+
+- **Bolger, P. A.**, Zapata, G. C., & Mateu-Martin, A. (2011, Apr.). *Semantically clustered contexts and L2 vocabulary: A classroom- and laboratory-based study*. Paper presented at the UIC Bilingualism Forum, Chicago, IL.
+
+- **Bolger, P. A.**, & Borgwaldt, S. (2010, Jul.). *The time course of letter detection: The role of digraph status, lexicality and frequency*. Poster presented at the 7th International Conference on the Mental Lexicon, Windsor, Ontario, Canada.
+
+- Miwa, K., **Bolger, P. A.**, Dijkstra, T., & Baayen, H. (2010, Jul.). *The case of different scripts: Cross-linguistic effects in Japanese-English bilingual word recognition*. Paper presented at the 7th International Conference on the Mental Lexicon, Windsor, Ontario, Canada.
+
+- Zapata, G. C., & **Bolger, P. A.** (2010, Jul.). *The effect of semantically clustered contexts on L2 vocabulary learning: A classroom- and laboratory-based study*. Poster presented at the 7th International Conference on the Mental Lexicon, Windsor, Ontario, Canada.
+
 - **Bolger, P. A.** (2009, Aug.). *Predicting saccade length in the L2 reading of English passages: A pilot study using mixed-effects modeling*. Poster presented at the 15th European Conference on Eye Movements, Southampton, England.
-- Columbus, G., & **Bolger, P. A.** (2009, Aug.). *Multiword unit processing in native and proficient non-native speakers of English*. Poster presented at the 15th European Conference on Eye Movements, Southampton, England.  
-- **Bolger, P. A.**, Borgwaldt, S., & Jakab, E. (2008, Oct.). *Crosslinguistic letter detection: Effects of lexicality and orthographic transparency*. Poster presented at the 6th International Conference on the Mental Lexicon, Banff, Alberta, Canada.  
-- **Bolger, P. A.**, & Zapata, G. C. (2008, Aug.). *How semantic homogeneity in story contexts affects vocabulary learning*. Paper presented at the 15th World Congress of Applied Linguistics, Essen, Germany.  
-- **Bolger, P. A.**, Borgwaldt, S., & Jakab, E. (2006, Oct.). *Letter detection with masked priming: A crosslinguistic study*. Poster presented at the 5th International Conference on the Mental Lexicon, McGill, Montreal, Quebec, Canada.  
+
+- Columbus, G., & **Bolger, P. A.** (2009, Aug.). *Multiword unit processing in native and proficient non-native speakers of English*. Poster presented at the 15th European Conference on Eye Movements, Southampton, England.
+
+- **Bolger, P. A.**, Borgwaldt, S., & Jakab, E. (2008, Oct.). *Crosslinguistic letter detection: Effects of lexicality and orthographic transparency*. Poster presented at the 6th International Conference on the Mental Lexicon, Banff, Alberta, Canada.
+
+- **Bolger, P. A.**, & Zapata, G. C. (2008, Aug.). *How semantic homogeneity in story contexts affects vocabulary learning*. Paper presented at the 15th World Congress of Applied Linguistics, Essen, Germany.
+
+- **Bolger, P. A.**, Borgwaldt, S., & Jakab, E. (2006, Oct.). *Letter detection with masked priming: A crosslinguistic study*. Poster presented at the 5th International Conference on the Mental Lexicon, McGill, Montreal, Quebec, Canada.

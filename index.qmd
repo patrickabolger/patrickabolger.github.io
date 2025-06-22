@@ -5,15 +5,18 @@ about:
   image: images/headShot.jpeg
   image-shape: round
   links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/patrickabolger
     - icon: envelope
       text: Email
       href: mailto:patrick.bolger@ntu.ac.uk
+    - icon: github
+      text: GitHub
+      href: https://github.com/patrickabolger
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/patrick-bolger-66b1b41/
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=2Eb1mO4AAAAJ
     - text: "{{< ai researchgate size=large >}} ResearchGate"
       href: https://www.researchgate.net/profile/Patrick_Bolger
 ---
