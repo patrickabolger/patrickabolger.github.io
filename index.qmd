@@ -11,14 +11,18 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/patrickabolger
+      target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/patrick-bolger-66b1b41/
+      target: _blank
     - icon: google
       text: Google Scholar
       href: https://scholar.google.com/citations?hl=en&user=2Eb1mO4AAAAJ
+      target: _blank
     - text: "{{< ai researchgate size=large >}} ResearchGate"
       href: https://www.researchgate.net/profile/Patrick_Bolger
+      target: _blank
 ---
 
 I currently work as a Senior Lecturer in Psychology at Nottingham Trent University, where I have taught various modules, including the following (sorted by student level):
