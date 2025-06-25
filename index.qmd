@@ -33,24 +33,24 @@ I currently work as a Senior Lecturer in Psychology at Nottingham Trent Universi
 
 ### First year
 
-- *Developing Academic Skills in Psychology*
-- *Introduction to Developmental Psychology* (module leader)
+- *Developing Academic Skills in Psychology*  
+- *Introduction to Developmental Psychology*  
 - *Research Methods & Stats*
 
 ### Second year
 
-- *Research Methods & Stats*
-- *Social & Developmental Psychology* 
+- *Research Methods & Stats*  
+- *Social & Developmental Psychology*  
 - *Individual Differences*
 
 ### Third year
-- *Psychology of the Family* (module leader)
+- *Psychology of the Family*  
 - Projects (supervisor)
 
 ## Postgraduate
 
 ### Master's
-- *The Child in Context*
+- *The Child in Context*  
 - *Developmental Profiles of Language and Learning*
 
 ---
@@ -69,11 +69,12 @@ My research interests are as follows:
 
 # Service
 
-I am the first-year tutor on the course team.
+- I am the first-year tutor on the course team  
+- I have also been the leader on two modules
 
 <!-- ## UofN -->
 
-<!-- **University of Nottingham** (August 2022 - January 2024) -->
+<!-- **University of Nottingham** (August 2022 - J  anuary 2024) -->
 
 <!-- For a year and a half, I was a *Community Development Champion* in the [School of Psychology](https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx) at the [University of Nottingham](https://www.nottingham.ac.uk/). I worked exclusively with the team at [Open Science Tools](https://opensciencetools.org/) (the makers of both [PsychoPy](https://www.psychopy.org/), the open-source software for psychological experiments, and its online sister, [Pavlovia](https://pavlovia.org/docs/home/about)). I was hired through funding from an [Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/) grant from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/), obtained by the fun, friendly, upstanding team at PsychoPy. -->
 
