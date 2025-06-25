@@ -23,6 +23,7 @@ format:
     theme: 
       light: minty
       dark: solar
+    respect-user-color-scheme: true
     toc: true
     page-layout: full
     smooth-scroll: true
