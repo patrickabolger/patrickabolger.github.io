@@ -35,23 +35,25 @@ I currently work as a Senior Lecturer in Psychology at Nottingham Trent Universi
 
 - *Developing Academic Skills in Psychology*  
 - *Introduction to Developmental Psychology*  
-- *Research Methods & Stats*
+- *Research Methods & Statistics*
 
 ### Second year
 
-- *Research Methods & Stats*  
 - *Social & Developmental Psychology*  
-- *Individual Differences*
+- *Individual Differences*  
+- *Research Methods & Statistics*
 
 ### Third year
-- *Psychology of the Family*  
+- *Psychology of the Family*    
 - Projects (supervisor)
 
-## Postgraduate
+## Postgraduate (Master's)
 
-### Master's
 - *The Child in Context*  
-- *Developmental Profiles of Language and Learning*
+- *Social & Developmental Psychology*  
+- *Developmental Profiles of Language and Learning*  
+- *Research Skills in Applied Child Psychology*  
+- *AI and Cyberpsychology*
 
 ---
 
@@ -69,8 +71,10 @@ My research interests are as follows:
 
 # Service
 
-- I am the first-year tutor on the course team  
-- I have also been the leader on two modules
+- I have served on the Course Team as a Year Tutor
+  - the first-year tutor on Single Honours (general pathway)
+  - the third-year tutor for Combined Honours
+- I have also been the module leader on four modules
 
 <!-- ## UofN -->
 

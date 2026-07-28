@@ -11,3 +11,5 @@ snippets/
 
 # Mac specific
 .DS_Store
+
+**/*.quarto_ipynb
